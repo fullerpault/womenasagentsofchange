@@ -8,9 +8,9 @@
     <div class="card-body">
         <dl>
             <dt>Preferred Citation:</dt>
-            <dd>"{{ page.title }}", {{ site.title }}, {{ site.organization-name }}</dd>
-            <dt>Reference Link:</dt>
-            <dd>{{ page.url | absolute_url }}</dd>
+            <dd>"{{ page.title }}", {{ page.source }}, {{ page.specialized_collection }}, University of Southern Maine</dd>
+            {% if page.repository_url %}<dt>Repository Link:</dt>
+            <dd><a target="_blank" rel="noopener" href="{{ page.rightsstatement }}">{{ page.repository_url }}</a></dd>{% endif %}
         </dl>
     </div>
 </div>
