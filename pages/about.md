@@ -1,33 +1,15 @@
 ---
-title: About
+title: About the Exhibit
 layout: about
 permalink: /about.html
-# include CollectionBuilder info at bottom
 credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+## Women as Agents of Change: Social Reform in the USM Specialized Collections
+As a public university, the University of Southern Maine’s three specialized collections — the [Franco-American Collection](https://usm.maine.edu/franco-american-collection/) (Lewiston-Auburn Campus), the [Osher Map Library and Smith Center for Cartographic Education](https://oshermaps.org/), and the [Department of Special Collections](https://usm.maine.edu/special-collections/) — have long been devoted to using our collections for education and outreach to USM students, faculty, and staff and the larger local, regional, national, and international communities we all serve. Each collection supports USM’s educational mission by placing original materials, some dating back hundreds of years, into the hands of learners for examination and interpretation—inspiring curiosity, research, creativity, and action.
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+Each year, USM’s three specialized collections come together to organize a joint exhibition. This, our third annual collaborative exhibition, focuses on items in our individual collections related to the theme of women and social reform, broadly conceived. The materials on display in the surrounding cases, organized by each individual collection, are primarily from the 19th and 20th centuries, and, in many instances, are directly related to social and political actions taken by women in Maine over the course of two centuries. In this exhibit, visitors can learn more about each specialized collection, as well as view examples of the diverse materials held by each collection that relate to the broader theme of women as agents of change. 
 
-## About CollectionBuilder CSV
+Archives and special collections were once privileged spaces, open only to “academic” or “professional” researchers. In the late-20th century, particularly among colleges and universities, such repositories of rare books, manuscripts, maps, and artifacts re-aligned themselves with a new mission: open education. A new focus on connecting people to historical materials and collections (also known as primary sources) opened the doors of these once rarified spaces to all. Collecting practices have also varied widely over the years, and USM’s Specialized Collections are proud to preserve and share materials that help us better understand the actions that individuals and communities have taken to make a lasting impact on society. The Sampson Center for Diversity in Maine, and the Franco-American Collection are community archives, with many collections developed in response to the needs of the communities who created them. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+These items are but a small sampling of our larger collections, all of which are open to members of the USM community, as well as members of the public.
