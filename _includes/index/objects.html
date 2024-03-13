@@ -12,7 +12,7 @@
       {% when 'image' %} 
       <a class="text-dark" href="{{ 'image' | prepend: '/browse.html#' | relative_url }}">Image{% if count > 1 %}s{% endif %} <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-image"/></svg></a><br>
       {% when 'iiif' %}
-      <a class="text-dark" href="{{ 'iiif' | prepend: '/browse.html#' | relative_url }}">IIIF item{% if count > 1 %}s{% endif %} <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-images"/></svg></a><br>
+      <a class="text-dark" href="{{ 'iiif' | prepend: '/browse.html#' | relative_url }}">IIIF item{% if count > 1 %}s{% endif %} <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-compound-object"/></svg></a><br>
       {% when 'audio' %}
       <a class="text-dark" href="{{ 'audio' | prepend: '/browse.html#' | relative_url }}">Audio File{% if count > 1 %}s{% endif %} <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-audio"/></svg></a><br>
       {% when 'video' %}
