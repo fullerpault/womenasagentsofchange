@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: digitalprojects.usm.maine.edu
+url: https://digitalprojects.usm.maine.edu/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /womenasagentsofchange
 # location of code, the full url to your github repository
@@ -50,7 +50,7 @@ metadata: metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "University of Southern Maine Specialized Collections"
+organization-name: "University of Southern Maine Digital Projects"
 organization-link: https://usm.maine.edu/library/
 organization-logo-banner: /assets/img/USMLogo_horizontal.png
 organization-logo-nav: /assets/img/USMLogo_horizontal_white.png
